@@ -50,7 +50,7 @@ export default function AuthPage() {
     <div className="auth-page">
       <div className="auth-card">
         <div className="auth-top">
-          <span className="wordmark">wishlist</span>
+          <span className="wordmark">Interest</span>
           <p className="auth-tagline">your aesthetic collection, shared.</p>
         </div>
 
